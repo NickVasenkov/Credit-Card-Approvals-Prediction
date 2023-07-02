@@ -4,4 +4,4 @@
 
 Using the Credit Card Approval dataset from the UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/credit+approval
 
-The developed model achieved 100 %  prediction accuracy on the test set.
+The developed model achieved 100 %  prediction accuracy on the test set (see in the notebook).
